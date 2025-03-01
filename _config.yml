@@ -15,18 +15,18 @@
 
 # plum skin 활용하여 색상 설정함. 변경하려면 _sass/minimal-mistakes/skins/_plum.scss 에서 변경하거나
 # 해당 디렉토리 내의 다른 테마로 변경 가능 (minimal-mistakes 기본 제공 테마)
-minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
+minimal_mistakes_skin: "firoozeh" # "default" "air", "aqua", ...
 
 # Site Settings
 locale: "en-US" #"en-US"
-title: "Java & Finance"
+title: "Java & Finance: Coding the Future"
 title_separator: "&#124;"
-subtitle: "Coding the Future" # site tagline that appears below site title in masthead
+subtitle: # site tagline that appears below site title in masthead
 name: "Meysam" # 블로그 닉네임 설정
 description: "this is my blog!" # 블로그 설명
 url: "https://mnasimi.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "github-account/github-account.github.io" # GitHub Repo 이름
+repository: "mnasimi/mnasimi.github.io" # GitHub Repo 이름
 teaser: #
 
 # logo                     : # 블로그명 앞에 로고 추가하고 싶을 경우 사용
@@ -39,8 +39,7 @@ comments:
     shortname: # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
+  facebook: # https://developers.facebook.com/docs/plugins/comments
     appid:
     num_posts: # 5 (default)
     colorscheme: # "light" (default), "dark"
@@ -98,7 +97,7 @@ analytics:
 
 # Site Author
 author:
-  name: "your name here" # 블로그 닉네임
+  name: "Meysam" # 블로그 닉네임
   avatar: "/assets/images/meee.png" # 블로그 프로필 사진
   #   bio              : "hi all!"
   # location         : "Seoul, Korea"
