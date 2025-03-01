@@ -23,7 +23,7 @@ title: "Java & Finance: Coding the Future"
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
 name: "Meysam" # 블로그 닉네임 설정
-description: "this is my blog!" # 블로그 설명
+description: "This is my blog!" # 블로그 설명
 url: "https://mnasimi.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "mnasimi/mnasimi.github.io" # GitHub Repo 이름
